@@ -77,7 +77,7 @@ _— Carl Sagan_
   For details on my projects, security articles, and contact information, visit my personal site:
   <br><br>
   <a href="https://www.l0g0rhythm.com.br/">
-    <img src="https://img.shields.io/badge/Visitar%20Site%20Pessoal-www.l0g0rhythm.com.br-1a1a2e?style=for-the-badge&logo=github&logoColor=ffffff&color=e0e0e0" alt="Link para o site pessoal"/>
+    <img src="https://img.shields.io/badge/Visit%20Site%20Personal-www.l0g0rhythm.com.br-1a1a2e?style=for-the-badge&logo=github&logoColor=ffffff&color=e0e0e0" alt="Link to personal site"/>
   </a>
 </div>
 </br>
