@@ -1,29 +1,37 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Independent+Security+Researcher;Lifelong+Learner;Exploring+Cybersecurity...&font=Fira+Code&center=true&width=600&height=50&color=e0e0e0&background=00000000&duration=4000&pause=1000" alt="Typing SVG" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Independent+Security+Researcher;Lifelong+Learner;Exploring+Cybersecurity...&font=Fira+Code&center=true&width=600&height=50&color=e0e0e0&background=00000000&duration=4000&pause=1000">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Independent+Security+Researcher;Lifelong+Learner;Exploring+Cybersecurity...&font=Fira+Code&center=true&width=600&height=50&color=1a1a2e&background=00000000&duration=4000&pause=1000">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?lines=Independent+Security+Researcher;Lifelong+Learner;Exploring+Cybersecurity...&font=Fira+Code&center=true&width=600&height=50&color=e0e0e0&background=00000000&duration=4000&pause=1000">
+  </picture>
   <br>
 
-_"Somewhere, something incredible is waiting to be known."_ <br>
-_— Carl Sagan_
+  _"Somewhere, something incredible is waiting to be known."_ <br>
+  _— Carl Sagan_
 
 </div>
+
+<br>
 
 ---
 
 <br>
 <div align="center">
 
-  <a href="https://github.com/L0g0rhythm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=141423&title_color=ffffff&text_color=c0c0e0&icon_color=9a4efc&border_color=ffffff&hide_border=false" alt="L0g0rhythm's GitHub Stats"/>
-  </a>
-  <a href="https://github.com/L0g0rhythm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=141423&title_color=ffffff&text_color=c0c0e0&border_color=ffffff&hide_border=false" alt="L0g0rhythm's Top Languages"/>
-  </a>
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=141423&title_color=ffffff&text_color=c0c0e0&icon_color=9a4efc&border_color=ffffff&hide_border=false">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=0f0f1a&text_color=1a1a2e&icon_color=5b049e&border_color=1a1a2e&hide_border=false">
+      <img height="180em" alt="L0g0rhythm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=141423&title_color=ffffff&text_color=c0c0e0&icon_color=9a4efc&border_color=ffffff&hide_border=false">
+  </picture>
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=141423&title_color=ffffff&text_color=c0c0e0&border_color=ffffff&hide_border=false">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=ffffff&title_color=0f0f1a&text_color=1a1a2e&border_color=1a1a2e&hide_border=false">
+      <img height="180em" alt="L0g0rhythm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=141423&title_color=ffffff&text_color=c0c0e0&border_color=ffffff&hide_border=false">
+  </picture>
 
 </div>
-</br>
+<br>
 
 ---
 
@@ -38,6 +46,7 @@ _— Carl Sagan_
   <img alt="Perl" height="30" width="40" title="Perl" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg">
   <img alt="PHP" height="30" width="40" title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img alt="JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="typescript" height="30" width="40" title="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img alt="Bash" height="30" width="40" title="Bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img alt="PowerShell" height="30" width="40" title="PowerShell" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg">
   <img alt="HTML5" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -64,11 +73,13 @@ _— Carl Sagan_
 
 <br>
 <div align="center">
-  <a href="https://github.com/L0g0rhythm">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=L0g0rhythm&bg_color=0f0f1a&color=c0c0e0&line=9a4efc&point=9a4efc&area=true&hide_border=false&border_color=ffffff&area_color=9a4efc" alt="GitHub Activity Graph"/>
-  </a>
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=L0g0rhythm&bg_color=0f0f1a&color=c0c0e0&line=9a4efc&point=9a4efc&area=true&hide_border=false&border_color=ffffff&area_color=9a4efc">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=L0g0rhythm&bg_color=ffffff&color=1a1a2e&line=9a4efc&point=9a4efc&area=true&hide_border=false&border_color=1a1a2e&area_color=9a4efc">
+      <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=L0g0rhythm&bg_color=0f0f1a&color=c0c0e0&line=9a4efc&point=9a4efc&area=true&hide_border=false&border_color=ffffff&area_color=9a4efc">
+  </picture>
 </div>
-</br>
+<br>
 
 ---
 
@@ -77,10 +88,14 @@ _— Carl Sagan_
   For details on my projects, security articles, and contact information, visit my personal site:
   <br><br>
   <a href="https://www.l0g0rhythm.com.br/">
-    <img src="https://img.shields.io/badge/%20Site%20-www.l0g0rhythm.com.br-1a1a2e?style=for-the-badge&logo=github&logoColor=ffffff&color=e0e0e0" alt="Link to personal site"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%20Site%20-www.l0g0rhythm.com.br-1a1a2e?style=for-the-badge&logo=github&logoColor=ffffff&color=e0e0e0">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%20Site%20-www.l0g0rhythm.com.br-e0e0e0?style=for-the-badge&logo=github&logoColor=1a1a2e&color=1a1a2e">
+      <img alt="Link to personal site" src="https://img.shields.io/badge/%20Site%20-www.l0g0rhythm.com.br-1a1a2e?style=for-the-badge&logo=github&logoColor=ffffff&color=e0e0e0">
+    </picture>
   </a>
 </div>
-</br>
+<br>
 
 ---
 
@@ -92,6 +107,6 @@ _— Carl Sagan_
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/L0g0rhythm/L0g0rhythm/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-</br>
+<br>
 
 ---
