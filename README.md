@@ -7,35 +7,30 @@
   </picture>
   <br>
 
-  _"Somewhere, something incredible is waiting to be known."_ <br>
-  _— Carl Sagan_
+_"Somewhere, something incredible is waiting to be known."_ <br>
+_— Carl Sagan_
 
 </div>
 
-<br>
-
 ---
 
-<br>
 <div align="center">
 
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=141423&title_color=ffffff&text_color=c0c0e0&icon_color=9a4efc&border_color=ffffff&hide_border=false">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=0f0f1a&text_color=1a1a2e&icon_color=5b049e&border_color=1a1a2e&hide_border=false">
-      <img height="180em" alt="L0g0rhythm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=141423&title_color=ffffff&text_color=c0c0e0&icon_color=9a4efc&border_color=ffffff&hide_border=false">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=141423&title_color=ffffff&text_color=c0c0e0&icon_color=9a4efc&border_color=ffffff&hide_border=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=0f0f1a&text_color=1a1a2e&icon_color=5b049e&border_color=1a1a2e&hide_border=false">
+    <img height="180" alt="L0g0rhythm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=141423&title_color=ffffff&text_color=c0c0e0&icon_color=9a4efc&border_color=ffffff&hide_border=false">
   </picture>
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=141423&title_color=ffffff&text_color=c0c0e0&border_color=ffffff&hide_border=false">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=ffffff&title_color=0f0f1a&text_color=1a1a2e&border_color=1a1a2e&hide_border=false">
-      <img height="180em" alt="L0g0rhythm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=141423&title_color=ffffff&text_color=c0c0e0&border_color=ffffff&hide_border=false">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=141423&title_color=ffffff&text_color=c0c0e0&border_color=ffffff&hide_border=false">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=ffffff&title_color=0f0f1a&text_color=1a1a2e&border_color=1a1a2e&hide_border=false">
+    <img height="180" alt="L0g0rhythm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=141423&title_color=ffffff&text_color=c0c0e0&border_color=ffffff&hide_border=false">
   </picture>
 
 </div>
-<br>
 
 ---
 
-<br>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;">
   <img alt="Linux" height="30" width="40" title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img alt="Arch Linux" height="30" width="40" title="Arch Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
@@ -46,7 +41,7 @@
   <img alt="Perl" height="30" width="40" title="Perl" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg">
   <img alt="PHP" height="30" width="40" title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img alt="JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img alt="typescript" height="30" width="40" title="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="TypeScript" height="30" width="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img alt="Bash" height="30" width="40" title="Bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img alt="PowerShell" height="30" width="40" title="PowerShell" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg">
   <img alt="HTML5" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -67,23 +62,19 @@
   <img alt="Markdown" height="30" width="40" title="Markdown" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
   <img alt="Notion" height="30" width="40" title="Notion" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
 </div>
-</br>
 
 ---
 
-<br>
 <div align="center">
   <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=L0g0rhythm&bg_color=0f0f1a&color=c0c0e0&line=9a4efc&point=9a4efc&area=true&hide_border=false&border_color=ffffff&area_color=9a4efc">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=L0g0rhythm&bg_color=ffffff&color=1a1a2e&line=9a4efc&point=9a4efc&area=true&hide_border=false&border_color=1a1a2e&area_color=9a4efc">
-      <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=L0g0rhythm&bg_color=0f0f1a&color=c0c0e0&line=9a4efc&point=9a4efc&area=true&hide_border=false&border_color=ffffff&area_color=9a4efc">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=L0g0rhythm&bg_color=0f0f1a&color=c0c0e0&line=9a4efc&point=9a4efc&area=true&hide_border=false&border_color=ffffff&area_color=9a4efc">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=L0g0rhythm&bg_color=ffffff&color=1a1a2e&line=9a4efc&point=9a4efc&area=true&hide_border=false&border_color=1a1a2e&area_color=9a4efc">
+    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=L0g0rhythm&bg_color=0f0f1a&color=c0c0e0&line=9a4efc&point=9a4efc&area=true&hide_border=false&border_color=ffffff&area_color=9a4efc">
   </picture>
 </div>
-<br>
 
 ---
 
-<br>
 <div align="center">
   For details on my projects, security articles, and contact information, visit my personal site:
   <br><br>
@@ -95,11 +86,9 @@
     </picture>
   </a>
 </div>
-<br>
 
 ---
 
-<br>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/L0g0rhythm/L0g0rhythm/output/github-contribution-grid-snake-dark.svg">
@@ -107,6 +96,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/L0g0rhythm/L0g0rhythm/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-<br>
-
----
