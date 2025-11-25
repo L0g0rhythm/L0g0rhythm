@@ -1,30 +1,39 @@
-name: generate animation
+name: generate-animation
 
 on:
-  # run automatically every 24 hours
+  # Schedule: Run automatically at 00:00 UTC daily to capture full day stats
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 0 * * *" 
   
-  # allows to manually run the job at any time
+  # Manual Trigger: Allows on-demand execution via Actions tab
   workflow_dispatch:
   
-  # run on every push on the master branch
+  # Trigger: Run on push to default branches
   push:
     branches:
     - master
-    
-  
+    - main # Added for robustness (modern Git standard)
+
+# Resource Optimization: Cancel previous runs if a new commit is pushed immediately
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
-  generate:
+  update-snake:
+    name: Generate Snake Animation
+    
+    # Least Privilege: Only write permission is required for the output branch
     permissions: 
       contents: write
+      
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 5 # Fail-safe: Kill process if hung
     
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: generate github-contribution-grid-snake.svg
+      # Step 1: Generate SVG from GitHub Contribution Graph
+      # Security Note: Consider pinning to SHA for strict Zero Trust environments
+      - name: Generate SVG Animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -32,14 +41,14 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-          
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # Step 2: Push Artifacts to Output Branch
+      # Uses 'output' branch to serve assets, keeping the main branch clean
+      - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
         env:
+          # Securely injecting the GitHub Token
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
