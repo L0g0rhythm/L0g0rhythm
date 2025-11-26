@@ -1,8 +1,7 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Independent+Security+Researcher;Lifelong+Learner;Exploring+Cybersecurity...&font=Fira+Code&center=true&width=600&height=50&color=e0e0e0&background=00000000&duration=4000&pause=1000&v=restore_v1" alt="Typing SVG">
-  </a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Independent+Security+Researcher;Lifelong+Learner;Exploring+Cybersecurity...&font=Fira+Code&center=true&width=600&height=50&color=e0e0e0&background=00000000&duration=4000&pause=1000&v=final_fix)](https://git.io/typing-svg)
+  
   <br>
 
   _"Somewhere, something incredible is waiting to be known."_ <br>
@@ -14,8 +13,9 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=141423&title_color=ffffff&text_color=c0c0e0&icon_color=9a4efc&border_color=ffffff&hide_border=false&v=restore_v1" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=141423&title_color=ffffff&text_color=c0c0e0&border_color=ffffff&hide_border=false&v=restore_v1" height="180" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=141423&title_color=ffffff&text_color=c0c0e0&icon_color=9a4efc&border_color=ffffff&hide_border=false&v=final_fix" height="180" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=141423&title_color=ffffff&text_color=c0c0e0&border_color=ffffff&hide_border=false&v=final_fix" height="180" alt="Top Langs" />
 
 </div>
 
