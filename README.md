@@ -1,9 +1,9 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Independent+Security+Researcher;Lifelong+Learner;Exploring+Cybersecurity...&font=Fira+Code&center=true&width=600&height=50&color=e0e0e0&background=00000000&duration=4000&pause=1000">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Independent+Security+Researcher;Lifelong+Learner;Exploring+Cybersecurity...&font=Fira+Code&center=true&width=600&height=50&color=1a1a2e&background=00000000&duration=4000&pause=1000">
-    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?lines=Independent+Security+Researcher;Lifelong+Learner;Exploring+Cybersecurity...&font=Fira+Code&center=true&width=600&height=50&color=e0e0e0&background=00000000&duration=4000&pause=1000">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Independent+Security+Researcher;Lifelong+Learner;Exploring+Cybersecurity...&font=Fira+Code&center=true&width=600&height=50&color=e0e0e0&background=00000000&duration=4000&pause=1000&v=fixed">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Independent+Security+Researcher;Lifelong+Learner;Exploring+Cybersecurity...&font=Fira+Code&center=true&width=600&height=50&color=1a1a2e&background=00000000&duration=4000&pause=1000&v=fixed">
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?lines=Independent+Security+Researcher;Lifelong+Learner;Exploring+Cybersecurity...&font=Fira+Code&center=true&width=600&height=50&color=e0e0e0&background=00000000&duration=4000&pause=1000&v=fixed">
   </picture>
   <br>
 
@@ -17,15 +17,15 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=141423&title_color=ffffff&text_color=c0c0e0&icon_color=9a4efc&border_color=ffffff&hide_border=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=0f0f1a&text_color=1a1a2e&icon_color=5b049e&border_color=1a1a2e&hide_border=false">
-    <img height="180" alt="L0g0rhythm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=141423&title_color=ffffff&text_color=c0c0e0&icon_color=9a4efc&border_color=ffffff&hide_border=false">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=141423&title_color=ffffff&text_color=c0c0e0&icon_color=9a4efc&border_color=ffffff&hide_border=false&v=fixed">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=0f0f1a&text_color=1a1a2e&icon_color=5b049e&border_color=1a1a2e&hide_border=false&v=fixed">
+    <img height="180" alt="L0g0rhythm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=141423&title_color=ffffff&text_color=c0c0e0&icon_color=9a4efc&border_color=ffffff&hide_border=false&v=fixed">
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=141423&title_color=ffffff&text_color=c0c0e0&border_color=ffffff&hide_border=false">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=ffffff&title_color=0f0f1a&text_color=1a1a2e&border_color=1a1a2e&hide_border=false">
-    <img height="180" alt="L0g0rhythm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=141423&title_color=ffffff&text_color=c0c0e0&border_color=ffffff&hide_border=false">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=141423&title_color=ffffff&text_color=c0c0e0&border_color=ffffff&hide_border=false&v=fixed">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=ffffff&title_color=0f0f1a&text_color=1a1a2e&border_color=1a1a2e&hide_border=false&v=fixed">
+    <img height="180" alt="L0g0rhythm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=141423&title_color=ffffff&text_color=c0c0e0&border_color=ffffff&hide_border=false&v=fixed">
   </picture>
 
 </div>
