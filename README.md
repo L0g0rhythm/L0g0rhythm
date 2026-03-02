@@ -37,34 +37,6 @@ Cybersecurity, AI, automation and governance. Inspired by astrophysics.
 
 <div align="center">
 
-### ⚔️ Arsenal
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,arch,debian,redhat,windows&theme=dark" alt="OS" />
-</a>
-<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,perl,php,js,ts,bash,powershell&theme=dark" alt="Languages" />
-</a>
-<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,npm&theme=dark" alt="Web" />
-</a>
-<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,docker,cloudflare,grafana&theme=dark" alt="Infra" />
-</a>
-<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,vscode,md,notion&theme=dark" alt="Tools" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 ### 📊 GitHub Analytics
 
 <br>
