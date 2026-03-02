@@ -10,7 +10,7 @@
 
   <br>
 
-  _"Do céu à terra, eu sou o único honrado."_ <br>
+  _""Throughout Heaven and Earth, I alone am the honored one."_ <br>
   _— Gojo_
 
 </div>
