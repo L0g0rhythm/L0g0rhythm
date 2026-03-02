@@ -1,11 +1,17 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:0d1117&height=180&section=header&text=L0g0rhythm&fontSize=42&fontColor=e6edf3&fontAlignY=35&animation=fadeIn&desc=Security%20Architect%20%7C%20Autonomous%20Defense%20and%20Detection&descSize=14&descAlignY=55&descAlign=50" />
+
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Independent+Security+Researcher;Lifelong+Learner;Exploring+Cybersecurity...&font=Fira+Code&center=true&width=600&height=50&color=e0e0e0&background=00000000&duration=4000&pause=1000&v=final_fix)](https://git.io/typing-svg)
-  
+  <img src="https://komarev.com/ghpvc/?username=L0g0rhythm&style=flat-square&color=7c3aed&label=Profile+Views" alt="Profile Views" />
+
+  <br><br>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Security+Architect;Autonomous+Defense+%26+Detection+Systems;Building+the+Unseen+Shield&font=Fira+Code&center=true&width=520&height=45&color=a78bfa&background=00000000&duration=3500&pause=1200)](https://git.io/typing-svg)
+
   <br>
 
-  _"Somewhere, something incredible is waiting to be known."_ <br>
-  _— Carl Sagan_
+  _"Do céu à terra, eu sou o único honrado."_ <br>
+  _— Gojo_
 
 </div>
 
@@ -13,72 +19,116 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=141423&title_color=ffffff&text_color=c0c0e0&icon_color=9a4efc&border_color=ffffff&hide_border=false&v=final_fix" height="180" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=141423&title_color=ffffff&text_color=c0c0e0&border_color=ffffff&hide_border=false&v=final_fix" height="180" alt="Top Langs" />
+### 👨🏽‍💻 About Me
 
-</div>
+Security Architect focused on autonomous defense and detection. <br>
+Cybersecurity, AI, automation and governance. Inspired by astrophysics.
 
----
+<br>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;">
-  <img alt="Linux" height="30" width="40" title="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img alt="Arch Linux" height="30" width="40" title="Arch Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
-  <img alt="Debian" height="30" width="40" title="Debian" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
-  <img alt="Fedora" height="30" width="40" title="Fedora" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg">
-  <img alt="Windows" height="30" width="40" title="Windows" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
-  
-  <img alt="Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Perl" height="30" width="40" title="Perl" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg">
-  <img alt="PHP" height="30" width="40" title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img alt="JavaScript" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img alt="TypeScript" height="30" width="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="Bash" height="30" width="40" title="Bash" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img alt="PowerShell" height="30" width="40" title="PowerShell" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg">
-  
-  <img alt="HTML5" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Node.js" height="30" width="40" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img alt="npm" height="30" width="40" title="npm" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-  
-  <img alt="MySQL" height="30" width="40" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img alt="JSON" height="30" width="40" title="JSON" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg">
-  <img alt="Docker" height="30" width="40" title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img alt="Cloudflare" height="30" width="40" title="Cloudflare" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg">
-  <img alt="DigitalOcean" height="30" width="40" title="DigitalOcean" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg">
-  <img alt="Pandas" height="30" width="40" title="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img alt="Grafana" height="30" width="40" title="Grafana" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
-  
-  <img alt="Arduino" height="30" width="40" title="Arduino" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
-  <img alt="Raspberry Pi" height="30" width="40" title="Raspberry Pi" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
-  <img alt="Git" height="30" width="40" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img alt="VS Code" height="30" width="40" title="VS Code" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img alt="Markdown" height="30" width="40" title="Markdown" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
-  <img alt="Notion" height="30" width="40" title="Notion" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg">
+![Security](https://img.shields.io/badge/Security-Architect-7c3aed?style=flat-square&logo=hackthebox&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Offensive%20%26%20Defensive-30363d?style=flat-square&logo=openbugbounty&logoColor=a78bfa)
+![AI](https://img.shields.io/badge/AI-Autonomous%20Systems-30363d?style=flat-square&logo=openai&logoColor=a78bfa)
+![Governance](https://img.shields.io/badge/Governance-LGPD%20%7C%20Zero%20Trust-30363d?style=flat-square&logo=gnuprivacyguard&logoColor=a78bfa)
+
 </div>
 
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=L0g0rhythm&bg_color=0f0f1a&color=c0c0e0&line=9a4efc&point=9a4efc&area=true&hide_border=false&border_color=ffffff&area_color=9a4efc">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=L0g0rhythm&bg_color=ffffff&color=1a1a2e&line=9a4efc&point=9a4efc&area=true&hide_border=false&border_color=1a1a2e&area_color=9a4efc">
-    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=L0g0rhythm&bg_color=0f0f1a&color=c0c0e0&line=9a4efc&point=9a4efc&area=true&hide_border=false&border_color=ffffff&area_color=9a4efc">
-  </picture>
+
+### ⚔️ Arsenal
+
+**Operating Systems**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,arch,debian,redhat,windows&theme=dark" alt="OS" />
+</a>
+
+**Languages**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,perl,php,js,ts,bash,powershell&theme=dark" alt="Languages" />
+</a>
+
+**Web & Runtime**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,npm&theme=dark" alt="Web" />
+</a>
+
+**Data & Infrastructure**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,docker,cloudflare,grafana&theme=dark" alt="Infra" />
+</a>
+
+**Hardware & Tools**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,vscode,md,notion&theme=dark" alt="Tools" />
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  For details on my projects, security articles, and contact information, visit my personal site:
-  <br><br>
+
+### 📊 GitHub Analytics
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&text_color=e6edf3&icon_color=7c3aed&border_color=30363d&hide_border=false&ring_color=7c3aed">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=7c3aed&text_color=1a1a2e&icon_color=7c3aed&border_color=d0d7de&hide_border=false">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&text_color=e6edf3&icon_color=7c3aed&border_color=30363d&hide_border=false&ring_color=7c3aed" alt="GitHub Stats" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=e6edf3&border_color=30363d&hide_border=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=ffffff&title_color=7c3aed&text_color=1a1a2e&border_color=d0d7de&hide_border=false">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=e6edf3&border_color=30363d&hide_border=false" alt="Top Languages" />
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=L0g0rhythm&theme=transparent&hide_border=false&border=30363d&stroke=30363d&ring=7c3aed&fire=a78bfa&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&background=0d1117">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=L0g0rhythm&theme=transparent&hide_border=false&border=d0d7de&stroke=d0d7de&ring=7c3aed&fire=7c3aed&currStreakNum=1a1a2e&sideNums=1a1a2e&currStreakLabel=7c3aed&sideLabels=57606a&dates=57606a&background=ffffff">
+  <img src="https://streak-stats.demolab.com?user=L0g0rhythm&theme=transparent&hide_border=false&border=30363d&stroke=30363d&ring=7c3aed&fire=a78bfa&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=a78bfa&sideLabels=8b949e&dates=8b949e&background=0d1117" alt="GitHub Streak" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=L0g0rhythm&bg_color=0d1117&color=e6edf3&line=7c3aed&point=a78bfa&area=true&hide_border=true&area_color=7c3aed">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=L0g0rhythm&bg_color=ffffff&color=1a1a2e&line=7c3aed&point=7c3aed&area=true&hide_border=true&area_color=a78bfa">
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=L0g0rhythm&bg_color=0d1117&color=e6edf3&line=7c3aed&point=a78bfa&area=true&hide_border=true&area_color=7c3aed" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
   <a href="https://www.l0g0rhythm.com.br/" rel="noopener noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/%20Site%20-www.l0g0rhythm.com.br-1a1a2e?style=for-the-badge&logo=github&logoColor=ffffff&color=e0e0e0">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/%20Site%20-www.l0g0rhythm.com.br-e0e0e0?style=for-the-badge&logo=github&logoColor=1a1a2e&color=1a1a2e">
-      <img alt="Link to personal site" src="https://img.shields.io/badge/%20Site%20-www.l0g0rhythm.com.br-1a1a2e?style=for-the-badge&logo=github&logoColor=ffffff&color=e0e0e0">
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🌐_www.l0g0rhythm.com.br-0d1117?style=for-the-badge&logoColor=a78bfa&labelColor=0d1117&color=7c3aed">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/🌐_www.l0g0rhythm.com.br-ffffff?style=for-the-badge&logoColor=7c3aed&labelColor=ffffff&color=7c3aed">
+      <img alt="Personal Site" src="https://img.shields.io/badge/🌐_www.l0g0rhythm.com.br-0d1117?style=for-the-badge&logoColor=a78bfa&labelColor=0d1117&color=7c3aed" />
     </picture>
   </a>
+
 </div>
 
 ---
@@ -90,3 +140,5 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/L0g0rhythm/L0g0rhythm/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:0d1117&height=120&section=footer" />
