@@ -80,15 +80,15 @@ Cybersecurity, AI, automation and governance. Inspired by astrophysics.
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&text_color=e6edf3&icon_color=7c3aed&border_color=30363d&hide_border=false&ring_color=7c3aed">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=7c3aed&text_color=1a1a2e&icon_color=7c3aed&border_color=d0d7de&hide_border=false">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&text_color=e6edf3&icon_color=7c3aed&border_color=30363d&hide_border=false&ring_color=7c3aed" alt="GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&text_color=e6edf3&icon_color=7c3aed&border_color=30363d&hide_border=false&ring_color=7c3aed">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=7c3aed&text_color=1a1a2e&icon_color=7c3aed&border_color=d0d7de&hide_border=false">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=L0g0rhythm&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a78bfa&text_color=e6edf3&icon_color=7c3aed&border_color=30363d&hide_border=false&ring_color=7c3aed" alt="GitHub Stats" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=e6edf3&border_color=30363d&hide_border=false">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=ffffff&title_color=7c3aed&text_color=1a1a2e&border_color=d0d7de&hide_border=false">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=e6edf3&border_color=30363d&hide_border=false" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=e6edf3&border_color=30363d&hide_border=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=ffffff&title_color=7c3aed&text_color=1a1a2e&border_color=d0d7de&hide_border=false">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=L0g0rhythm&layout=compact&langs_count=8&bg_color=0d1117&title_color=a78bfa&text_color=e6edf3&border_color=30363d&hide_border=false" alt="Top Languages" />
 </picture>
 
 <br><br>
