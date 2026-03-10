@@ -28,7 +28,7 @@ Inspired by astrophysics and complex systems.
 
 <br>
 
-![Security](https://img.shields.io/badge/Cybersecurity-Engineer-7c3aed?style=flat-square&logo=hackthebox&logoColor=white)
+![Role](https://img.shields.io/badge/Role-Cybersecurity%20Engineer-7c3aed?style=flat-square&logo=hackthebox&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Offensive%20%26%20Defensive-30363d?style=flat-square&logo=openbugbounty&logoColor=a78bfa)
 ![AI](https://img.shields.io/badge/AI-Autonomous%20Systems-30363d?style=flat-square&logo=openai&logoColor=a78bfa)
 ![Governance](https://img.shields.io/badge/Governance-LGPD%20%7C%20Zero%20Trust-30363d?style=flat-square&logo=gnuprivacyguard&logoColor=a78bfa)
