@@ -98,6 +98,22 @@ Critical Infrastructure Protection
 
 <div align="center">
 
+### 🛰️ Research Philosophy
+
+Security should evolve from reactive defense to autonomous resilience.
+
+The future of cybersecurity lies in intelligent systems capable of detecting,
+adapting and responding to threats without human latency.
+
+My work explores architectures where artificial intelligence and
+multi-agent coordination build self-healing security infrastructures.
+
+</div>
+
+---
+
+<div align="center">
+
   <a href="https://www.l0g0rhythm.com.br/" rel="noopener noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🌐_www.l0g0rhythm.com.br-0d1117?style=for-the-badge&logoColor=a78bfa&labelColor=0d1117&color=7c3aed">
