@@ -10,7 +10,7 @@
 
   <br>
 
-_"Throughout Heaven and Earth, I alone am the honored one."_ — Gojo
+_"Throughout Heaven and Earth, I alone am the honored one."_ - Gojo
 
 </div>
 
