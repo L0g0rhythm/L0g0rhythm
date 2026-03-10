@@ -21,8 +21,10 @@
 
 ### 👨🏽‍💻 About Me
 
-Security Architect focused on autonomous defense and detection. <br>
-Cybersecurity, AI, automation and governance. Inspired by astrophysics.
+Cybersecurity engineer focused on autonomous defense and detection systems. <br>
+Researching AI-driven security architectures, multi-agent defensive models and intelligent infrastructure protection. <br>
+Working at the intersection of cybersecurity, artificial intelligence and automation to build resilient defensive systems. <br>
+Inspired by astrophysics and complex systems.
 
 <br>
 
