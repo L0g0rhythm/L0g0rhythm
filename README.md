@@ -6,7 +6,7 @@
 
   <br><br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Engineer;Autonomous+Security+Systems;AI-Driven+Cyber+Defense;Building+the+Unseen+Shield&font=Fira+Code&center=true&width=520&height=45&color=a78bfa&background=00000000&duration=3500&pause=1200)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Engineer;Autonomous+Security+Systems;AI-Driven+Cyber+Defense;Resilient+Infrastructure+Protection&font=Fira+Code&center=true&width=520&height=45&color=a78bfa&background=00000000&duration=3500&pause=1200)](https://git.io/typing-svg)
 
   <br>
 
