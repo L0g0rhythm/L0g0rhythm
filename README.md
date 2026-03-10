@@ -114,13 +114,16 @@ multi-agent coordination build self-healing security infrastructures.
 
 <div align="center">
 
-  <a href="https://www.l0g0rhythm.com.br/" rel="noopener noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/🌐_www.l0g0rhythm.com.br-0d1117?style=for-the-badge&logoColor=a78bfa&labelColor=0d1117&color=7c3aed">
-      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/🌐_www.l0g0rhythm.com.br-ffffff?style=for-the-badge&logoColor=7c3aed&labelColor=ffffff&color=7c3aed">
-      <img alt="Personal Site" src="https://img.shields.io/badge/🌐_www.l0g0rhythm.com.br-0d1117?style=for-the-badge&logoColor=a78bfa&labelColor=0d1117&color=7c3aed" />
-    </picture>
-  </a>
+<a href="https://www.l0g0rhythm.com.br/" target="_blank" rel="noopener noreferrer">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Visit%20My%20Website-l0g0rhythm.com.br-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=a78bfa">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Visit%20My%20Website-l0g0rhythm.com.br-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=7c3aed">
+<img alt="Personal Website" src="https://img.shields.io/badge/Visit%20My%20Website-l0g0rhythm.com.br-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=a78bfa">
+
+</picture>
+
+</a>
 
 </div>
 
