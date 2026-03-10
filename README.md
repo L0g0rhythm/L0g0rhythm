@@ -20,7 +20,7 @@ _"Throughout Heaven and Earth, I alone am the honored one."_ - Gojo
 
 ### 👨🏽‍💻 About Me
 
-Cybersecurity engineer focused on autonomous defense and detection systems. <br>
+Cybersecurity engineer focused on autonomous security and intelligent defense systems.. <br>
 Researching AI-driven security architectures, multi-agent defensive models and intelligent infrastructure protection. <br>
 Working at the intersection of cybersecurity, artificial intelligence and automation to build resilient defensive systems. <br>
 Inspired by astrophysics and complex systems.
