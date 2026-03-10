@@ -39,6 +39,19 @@ Inspired by astrophysics and complex systems.
 
 <div align="center">
 
+### 🔬 Research Focus
+
+Autonomous Cyber Defense <br>
+AI Security Architectures <br>
+Multi-Agent Defensive Systems <br>
+Critical Infrastructure Protection
+
+</div>
+
+---
+
+<div align="center">
+
 ### 📊 GitHub Analytics
 
 <br>
