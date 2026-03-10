@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:0d1117&height=180&section=header&text=L0g0rhythm&fontSize=42&fontColor=e6edf3&fontAlignY=35&animation=fadeIn&desc=Cybersecurity%20Engineer%20%7C%20Autonomous%20Defense%20Systems&descSize=14&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:0d1117&height=180&section=header&text=L0g0rhythm&fontSize=42&fontColor=e6edf3&fontAlignY=35&animation=fadeIn&desc=Cybersecurity%20Engineer%20%7C%20Autonomous%20Defense%20Systems&descSize=14&descAlignY=55&descAlign=50&v=2" />
 
 <div align="center">
 
