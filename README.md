@@ -99,13 +99,11 @@ Critical Infrastructure Protection
 
 ### 🛰️ Research Philosophy
 
-Security should evolve from reactive defense to autonomous resilience.
+Security must evolve from reactive defense to autonomous resilience.
 
-The future of cybersecurity lies in intelligent systems capable of detecting,
-adapting and responding to threats without human latency.
+The next generation of cybersecurity will rely on intelligent systems capable of detecting, adapting and responding to threats without human latency.
 
-My work explores architectures where artificial intelligence and
-multi-agent coordination build self-healing security infrastructures.
+My research explores architectures where artificial intelligence and multi-agent coordination create resilient and self-healing security infrastructures.
 
 </div>
 
